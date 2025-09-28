@@ -316,7 +316,7 @@ body.show-emoji-picker em-emoji-picker {
 @media (max-width: 520px) {
   .chatbot-popup {
     position: fixed;
-    top: 30px; /* adjust to navbar height */
+    top: 20px; /* adjust to navbar height */
     left: 0;
     right: 0;
     height: calc(100vh - 60px);
@@ -537,3 +537,4 @@ body.show-emoji-picker em-emoji-picker {
     }
   }
 }
+
